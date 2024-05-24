@@ -309,47 +309,51 @@ www.gadgetsinnepal.com.np##.td_spot_img_all > .lazyloaded.entered
 ! ----- END https://www.gadgetsinnepal.com.np -----
 
 
-! 2023-06-01 https://filecr.com
+! https://filecr.com
 filecr.com##.footer_wrap__l31FA > .alert > .alert-wrap
 filecr.com##.footer_wrap__l31FA > .alert
 filecr.com##.ext-menu--init > .icon
 filecr.com##.ext-menu--init
 
-! 2023-06-18 https://hdtoday.tv
+! https://hdtoday.tv
 hdtoday.tv##[href="https://kaido.to"]
 hdtoday.tv##.news-iframe
 
-! 2023-06-27 https://sflix.to
+! https://sflix.to
 sflix.to##[src="https://valueclick.cc/embed/news?theme=dark&source=sflix.to"]
 sflix.to##section.block_area_home.block_area:nth-of-type(1)
 
-! 2023-08-03 https://www.news24nepal.tv
+! https://www.news24nepal.tv
 www.news24nepal.tv##.size-full.wp-block-image
 www.news24nepal.tv##.textwidget > p
 www.news24nepal.tv##.size-large.wp-block-image
 
-! 2023-08-03 https://etajakhabar.com
+! https://etajakhabar.com
 etajakhabar.com##.widget
 
-! 2023-08-03 https://www.bizshala.com
+! https://www.bizshala.com
 ||www.bizshala.com/public/images/advertisement$image
 
-! 2023-08-07 https://www.terabox.com
+! https://www.terabox.com
 www.terabox.com##.en.\+.\{seo-banner-img.seo-banner-img
 
-! 2023-08-08 https://nishankhatri.com.np
+! https://nishankhatri.com.np
 nishankhatri.com.np##.theme1.cmbfbuthzktthfvlotfdedkpczelpchnwfhpzldtnmrqhvskrodilfko > .nvbpblrajnxqfoqnrpcgzquxezujllprvzhyafdcwgptmlrkeldxdzilfko
 
-! 2023-08-14 https://eveandevan.com
+! https://eveandevan.com
 eveandevan.com###spinner
 
-! 2023-08-19 https://nepsealpha.com
+! https://nepsealpha.com
 nepsealpha.com##.border-info.border.text-center.justify-content-center.d-flex.card
 
-! 2023-09-10 https://aniwave.to
+! https://aniwave.to
 aniwave.to##.text-center.mb-4
 
-! websites
+! https://leakutopia.com
+leakutopia.com##.top-links
+
+! WEBSITES
 https://ludzpoaxklz.com
+
 ! JS
 https://c1a6a94262.4a1c2f215f.com/a0bb435b292d4e2a8bd452ae99efb72f.js

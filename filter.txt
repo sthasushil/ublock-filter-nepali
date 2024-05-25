@@ -336,6 +336,7 @@ etajakhabar.com##.widget
 
 ! https://www.terabox.com
 www.terabox.com##.en.\+.\{seo-banner-img.seo-banner-img
+www.terabox.com##.coupon-Popup-box
 
 ! https://nishankhatri.com.np
 nishankhatri.com.np##.theme1.cmbfbuthzktthfvlotfdedkpczelpchnwfhpzldtnmrqhvskrodilfko > .nvbpblrajnxqfoqnrpcgzquxezujllprvzhyafdcwgptmlrkeldxdzilfko
@@ -351,6 +352,15 @@ aniwave.to##.text-center.mb-4
 
 ! https://leakutopia.com
 leakutopia.com##.top-links
+
+! https://blog.shresthasushil.info.np
+blog.shresthasushil.info.np##.section.footer
+
+! https://mysansar.com
+mysansar.com##.site-info
+
+! https://www.facebook.com
+www.facebook.com##.bottom.fixed-container.m
 
 ! WEBSITES
 https://ludzpoaxklz.com

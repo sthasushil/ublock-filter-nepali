@@ -11,6 +11,6 @@ I created this collection of static uBlock filters for various popular Nepali si
 
 ## Didn't work? Site missing from the list?
 
-The site might have recently updated its layout or has changed its ad URL pattern or the filter list hasn't been updated. The filter rule for the site could be missing from the list. If so, you will have to contact me. If you have my contact you are in good luck.
+The site might have recently updated its layout or has changed its ad URL pattern or the filter list hasn't been updated. The filter rule for the site could be missing from the list. If so, you will have to contact me.
 
 I won't be updating this list frequently.
